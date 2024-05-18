@@ -1,0 +1,13 @@
+1.Paper image link
+
+ https://nehalhazem.github.io/rockPaperScissors.io/img/paper.png
+
+
+2.Scissor image link 
+
+https://nehalhazem.github.io/rockPaperScissors.io/img/scissors.png
+
+
+3.Rock image link
+
+https://nehalhazem.github.io/rockPaperScissors.io/img/rock.png
